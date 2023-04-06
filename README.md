@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2qvu2ilw9h8gkyjd/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrKudyakov/ahj-media/branch/main)
